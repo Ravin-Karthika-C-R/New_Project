@@ -206,11 +206,3 @@ font-weight: bold;
     text-align: center;
 }
 }
-@media(max-width: 800px){
-  .row button{
-    height: 40px;
-    width: 70;
-    margin: 0;
-  
-  }
-}
